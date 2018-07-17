@@ -1,5 +1,7 @@
-public class iLogger {
+public class iLogger  {
 	
+	//private static final Long serialVersionUID = 1L;
+	 
 	private int i = 10;
 	
 	// create instance variable. 
@@ -20,5 +22,5 @@ public class iLogger {
 	public void setI(int val) {
 		this.i = val;
 	}
-
+	
 }
